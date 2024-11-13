@@ -134,3 +134,11 @@ d. docker-compose run web rake db:migrate
 
 
 6. For the console: docker-compose exec web rails console
+
+
+Git and Bit repos
+
+bitbucket https://rinkukushwah679@bitbucket.org/rinkukushwah679/docker-app.git (fetch)
+bitbucket https://rinkukushwah679@bitbucket.org/rinkukushwah679/docker-app.git (push)
+origin  https://github.com/rinkukushwah5679/docker-app.git (fetch)
+origin  https://github.com/rinkukushwah5679/docker-app.git (push)
