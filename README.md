@@ -123,7 +123,7 @@ Step 5: Build and Run the Containers
 Build the Docker image:
 a. docker-compose build
 
-Run the containers:
+Run the containers: means server
 b. docker-compose up
 
 Create the database:
